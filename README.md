@@ -1,4 +1,4 @@
-![Screenshot 2024-10-20 101343](https://github.com/user-attachments/assets/c3e38672-5502-4e7a-9481-6c0f21ab5f76)# EXNO2DS
+# EXNO2DS
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
@@ -23,6 +23,7 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
+![Screenshot 2024-10-20 101343](https://github.com/user-attachments/assets/c3e38672-5502-4e7a-9481-6c0f21ab5f76)
 ![Screenshot 2024-10-20 101255](https://github.com/user-attachments/assets/790ebca7-0a92-4db1-a1f6-894d834b8f1c)
 ![Screenshot 2024-10-20 101343](https://github.com/user-attachments/assets/417fc58e-2996-4d12-8b57-2caf5280080c)
 ![Screenshot 2024-10-20 101537](https://github.com/user-attachments/assets/68a2d49a-d0ee-47c4-81df-6c790be4e129)
